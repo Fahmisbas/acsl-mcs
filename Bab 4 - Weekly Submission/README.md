@@ -29,3 +29,9 @@ Maka pada Bab 4, anda diwajibkan untuk membuat submission berupa aplikasi dengan
 * Perlu diperhatikan bahwa poin nilai submission sangat mempengaruhi nilai akhir praktikan.
 
 
+## (Alternatif) Submission Berbasis Kerja Tulis
+Apabila praktikan mengalami kendala dalam keterbatasan spesifikasi komputer untuk menjalankan proyek MCS, maka praktikan diperbolehkan untuk mengambil opsi Submission Berbasisi Kerja Tulis dengan kriteria sebagai berikut : 
+
+* Menuliskan seluruh baris kode pada Codelabs Bab 1, Bab 2, dan Bab 3, serta menjelaskan per setiap baris kode yang ada. Praktikan harus menuliskan kode yang sudah terbentuk secara menyeluruh, bukan perbagian-bagian.
+* Submission yang dikerjakan harus sesuai dengan persyaratan yang ada pada SOP (dapat dilihat pada bagian Proyek Berbasis Kerja Tulis)
+* Submission harus dikirimkan pada durasi minggu submission tersebut. Submission akan direspon oleh PJ hingga hari Jum'at pukul 23.59 WIB. Submission yang tidak memenuhi syarat diatas akan ditolak oleh PJ dan praktikan wajib mengirim ulang submission yang sudah memenuhi syarat. 

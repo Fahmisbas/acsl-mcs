@@ -555,3 +555,12 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 Berikut adalah tangkapan layar dari hasil percobaan Bab ini : <br />
 <img src="images/result.jpeg">
 <br />
+
+## LP
+Jelaskan deskripsi serta cara kerja dari sensor :
+1. Accelerometer
+2. Proximity
+3. Light Sensor
+
+## LA
+Jabarkan tipe dan perusahaan manufaktur sensor Accelerometer, Proximity, dan Light Sensor yang tertanam pada smartphone kalian!
